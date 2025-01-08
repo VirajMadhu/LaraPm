@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within Help Desk application, please email me via [eloufirhatim@gmail.com](mailto:eloufirhatim@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Help Desk application, please email me via [viraj.madhu1@gmail.com](mailto:viraj.madhu1@gmail.com). All security vulnerabilities will be promptly addressed.
