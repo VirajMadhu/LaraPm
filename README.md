@@ -7,9 +7,7 @@
 Before setting up the LaraPm platform, make sure you have the following tools installed in your development environment:
 
 - **[Composer](https://getcomposer.org/)**: Dependency management for PHP.
-- **[NPM](https://www.npmjs.com/)**: Package manager for JavaScript.
-
-Additionally, ensure that the general [prerequisites](/?id=prerequisites) for the platform are met.
+- **[PNPM](https://pnpm.io/)**: Fast, disk space efficient package manager for JavaScript.
 
 ## 📥 Installing the Project
 
@@ -29,10 +27,10 @@ Once the project is cloned, you'll need to install both **back-end** and **front
 composer install
 ```
 
-2. Install **front-end** dependencies using NPM:
+2. Install **front-end** dependencies using PNPM:
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## ⚙️ Configuration
@@ -136,12 +134,12 @@ Now you're ready to build the assets and run the platform.
 
 - For **production**:  
   ```bash
-  npm run build
+  pnpm run build
   ```
 
 - For **development**:  
   ```bash
-  npm run dev
+  pnpm run dev
   ```
 
 ### Step 2: Serve the Application
